@@ -34,13 +34,13 @@ Ce repository contient les supports de cours, TD, examens,flashcard anki et cons
 ## 📞 Contact et Questions
 
 Pour toute question ou clarification :
-- Discord : [Sillicium]
+- Discord : [exsilicium]
 - [Ouvrir une issue](../../issues) sur GitHub
 
 ## 🤝 Contribution
 
 Les contributions sont bienvenues ! Si vous souhaitez ajouter vos propres ressources :
-0. Contacter moi sur Discord [Sillicium]
+0. Contacter moi sur Discord [exsilicium]
 ---------------ou----------------
 1. Créez un fork du repository
 2. Ajoutez vos documents
