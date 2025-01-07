@@ -7,13 +7,15 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 ## 📂 Navigation Rapide
 
 - [📚 Électronique Analogique (EA)](#-électronique-analogique-ea)
-- [🔬 Circuits Capacitifs et Inductif (CCCI)](#-conception-de-circuits-intégrés-ccci)
+- [🔬 Conception de Circuits Intégrés (CCCI)](#-conception-de-circuits-intégrés-ccci)
 - [💻 Programmation C++](#-programmation-c)
 - [🧮 Mathématiques](#-mathématiques)
+- [🔖 Flashcards Anki](#-flashcards-anki)
+- [🌐 Ressources Utiles](#-ressources-utiles)
 - [💡 Comment utiliser ces ressources](#-comment-utiliser-ces-ressources)
 - [📞 Contact et Questions](#-contact-et-questions)
 - [🤝 Contribution](#-contribution)
-- [⚠️ Note/DISCLAIMER](#️-note)
+- [⚠️ Note](#️-note)
 
 ---
 
@@ -36,6 +38,26 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 - 📘 [Cours](./Maths/cours)
 - ✍️ [TD](./Maths/TD)
 - 📝 [Examens](./Maths/examens)
+
+---
+
+## 🔖 Flashcards Anki
+
+🎴 Retrouve toutes les **flashcards Anki** pour mémoriser efficacement les concepts importants :
+
+- [Télécharger les flashcards](./Anki)
+
+Ces fichiers sont compatibles avec l'application **Anki**. Pensez à synchroniser vos progrès pour les utiliser sur plusieurs appareils.
+
+---
+
+## 🌐 Ressources Utiles
+
+Voici une liste de ressources supplémentaires qui peuvent vous être utiles pour approfondir vos connaissances :
+
+- [📘 liste de ressources supplémentaires qui peuvent vous être utiles](./Resourcesup.md)
+
+Si vous connaissez d'autres ressources intéressantes, **faites une contribution** pour les ajouter ici !
 
 ---
 
@@ -63,7 +85,7 @@ Les contributions sont **les bienvenues** ! Si vous souhaitez enrichir ce dép
 2. Ajoutez vos fichiers ou documents.
 3. Soumettez une **pull request** pour révision.
 
-**Vous pouvez également me contacter directement** sur Discord : [exsilicium]
+Vous pouvez également me contacter directement sur Discord : [exsilicium]
 
 ---
 
