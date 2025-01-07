@@ -1,5 +1,5 @@
 # EEA-S3-pack
-Pack complet cours EEA S3 (Cours, annales, et conseils pour LAS pour réussir le semestre).
+Pack complet EEA S3 (Cours, annales, et conseils pour LAS pour réussir le semestre).
 
 
 # Ressources pour le 1er semestre 🎓
