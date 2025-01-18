@@ -1,1 +1,7 @@
-Consiste a faire des exo sur Thevenin northon technique pour trouver constante de temps, systeme a generateur multiple, millman et loi kirshoff
+Ce chapitre consiste à réaliser des exercices sur : 
+- Thévenin et Norton 
+- Techniques pour trouver la constante de temps 
+- Systèmes à générateurs multiples 
+- Millman 
+- Lois de Kirchhoff
+

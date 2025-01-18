@@ -1,0 +1,1 @@
+contac.o: ../contac.cpp
