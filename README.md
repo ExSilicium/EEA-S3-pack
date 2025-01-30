@@ -11,8 +11,7 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 - [💻 Programmation C++](#-programmation-c)
 - [🧮 Mathématiques](#-mathématiques)
 - [🔖 Flashcards Anki](#-flashcards-anki)
-- [🌐 Ressources Utiles](#-ressources-utiles)
-- [💡 Comment utiliser ces ressources](#-comment-utiliser-ces-ressources)
+- [💡 Comment utiliser ces ressources](#-comment-telecharger-ces-ressources)
 - [📞 Contact et Questions](#-contact-et-questions)
 - [🤝 Contribution](#-contribution)
 - [⚠️ Note](#️-note)
@@ -66,12 +65,10 @@ Si vous connaissez d'autres ressources intéressantes, **faites une contribution
 
 ---
 
-## 💡 Comment utiliser ces ressources
+## 💡 Comment telecharger ces ressources
 
-1. **Navigation :** Utilisez les liens ci-dessus pour accéder rapidement à vos ressources.
-2. **Téléchargement :**
-   - 📂 **Un fichier :** Cliquez sur le fichier, puis sur "Download".
-   - 🗂️ **Tout le dépôt :** Cliquez sur le bouton vert **"Code"** → **"Download ZIP"**.
+1. 🗂️ **Tout le dépôt :** Cliquez sur le bouton vert **"Code"** → **"Download ZIP"**.
+2. 📂 **Un fichier :** Cliquez sur le fichier, puis sur "Download".
 
 ---
 
