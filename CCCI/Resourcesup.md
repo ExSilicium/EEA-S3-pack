@@ -1,1 +1,0 @@
-resources sup a ajt

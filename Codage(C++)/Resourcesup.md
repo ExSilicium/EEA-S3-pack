@@ -1,5 +1,5 @@
 ### **Conseils pour cette matière**
-
+**ATTENTION LES TD VARRIE LEGEREMENT D'UNE ANNE A UNE AUTRE** 
 - Rien à redire sur cette matière : refaites les TD et assurez-vous de bien comprendre ce que vous faites. 
 - **Évitez d'utiliser les IA à tort et à travers lorsque vous pratiquez.** Servez-vous-en uniquement pour déboguer après avoir cherché par vous-même. 
 
