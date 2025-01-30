@@ -7,7 +7,7 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 ## 📂 Navigation Rapide
 
 - [📚 Électronique Analogique (EA)](#-électronique-analogique-ea)
-- [🔬 Conception de Circuits Intégrés (CCCI)](#-conception-de-circuits-intégrés-ccci)
+- [🔬 Circuits et Composants Capacitifs et Inductifs (CCCI)](#-conception-de-circuits-intégrés-ccci)
 - [💻 Programmation C++](#-programmation-c)
 - [🧮 Mathématiques](#-mathématiques)
 - [🔖 Flashcards Anki](#-flashcards-anki)
@@ -19,35 +19,40 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 
 ---
 
-## 📚 Électronique Analogique (EA)
-- 📘 [Cours](./EA/cours)
-- ✍️ [TD](./EA/TD)
-- 📝 [Examens](./EA/examens)
+## ⚡ Électronique Analogique (EA)
+- [1-Base](./EA/1-Base-Podleki)
+- [2-Loi des neud en terme de potentielle](./EA/2-Loi des neud en terme de potentielle-Parola)
+- [3-Harmonique](./EA/3-Harmonique-Parola)
+- [4-Transitoire](./EA/4-Transitoire-Parola)
+- [5-AOP](./EA/5-AOP-MorretBailly)
+- [6-Diode-Transistor](./EA/6-Diode-Transistor-Martinez)
+- [Analles](./EA/Analles)
 
-## 🔬 Conception de Circuits Intégrés (CCCI)
-- 📘 [Cours](./CCCI/cours)
-- ✍️ [TD](./CCCI/TD)
-- 📝 [Examens](./CCCI/examens)
+
+## 🔌 Circuits et Composants Capacitifs et Inductifs (CCCI)
+- [Capacitif](./CCCI/Capacitif)
+- [Inductif](./CCCI/Inductif)
+- [Annales](./CCCI/Annales)
 
 ## 💻 Programmation C++
-- 📘 [Cours](./Code%20C++/cours)
-- ✍️ [TD](./Code%20C++/TD)
-- 📝 [Examens](./Code%20C++/examens)
+- [Cours](./Codage-C++/HAE303E-Cours.pdf)
+- [TD](./Codage-C++/HAE303-TP.pdf)
+- [Examens](./Codage-C++/Analles)
 
 ## 🧮 Mathématiques
-- 📘 [Cours](./Maths/cours)
-- ✍️ [TD](./Maths/TD)
-- 📝 [Examens](./Maths/examens)
+- [Cours](./Maths/Cours)
+- [TD](./Maths/TD)
+- [Examens](./Maths/Analles)
 
 ---
 
 ## 🔖 Flashcards Anki
 
-🎴 Retrouve toutes les **flashcards Anki** pour mémoriser efficacement les concepts importants :
+🎴 Retrouve toutes les **flashcards Anki** pour mémoriser les concepts importants :
 
 - [Télécharger les flashcards](./Anki)
 
-Ces fichiers sont compatibles avec l'application **Anki**. Pensez à synchroniser vos progrès pour les utiliser sur plusieurs appareils.
+Ces fichiers sont compatibles avec l'application **Anki**.
 
 ---
 
