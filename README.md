@@ -11,7 +11,7 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 - [💻 Programmation C++](#-programmation-c)
 - [🧮 Mathématiques](#-mathématiques)
 - [🔖 Flashcards Anki](#-flashcards-anki)
-- [💡 Comment utiliser ces ressources](#-comment-telecharger-ces-ressources)
+- [💡 Comment telecharger ces ressources](#-comment-telecharger-ces-ressources)
 - [📞 Contact et Questions](#-contact-et-questions)
 - [🤝 Contribution](#-contribution)
 - [⚠️ Note](#️-note)
@@ -52,16 +52,6 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 - [Télécharger les flashcards](./Anki)
 
 Ces fichiers sont compatibles avec l'application **Anki**.
-
----
-
-## 🌐 Ressources Utiles
-
-Voici une liste de ressources supplémentaires qui peuvent vous être utiles pour approfondir vos connaissances :
-
-- [📘 liste de ressources supplémentaires qui peuvent vous être utiles](./Resourcesup.md)
-
-Si vous connaissez d'autres ressources intéressantes, **faites une contribution** pour les ajouter ici !
 
 ---
 
