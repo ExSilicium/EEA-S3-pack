@@ -21,7 +21,7 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 
 ## ⚡ Électronique Analogique (EA)
 - [1-Base](./EA/1-Base-Podleki)
-- [2-Loi des neud en terme de potentielle](./EA/2-Loi des neud en terme de potentielle-Parola)
+- [2-Loi des neud en terme de potentielle](./EA/2-Loi-des-nœuds-en-termes-de-potentiels-Parola)
 - [3-Harmonique](./EA/3-Harmonique-Parola)
 - [4-Transitoire](./EA/4-Transitoire-Parola)
 - [5-AOP](./EA/5-AOP-MorretBailly)
