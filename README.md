@@ -29,8 +29,8 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 
 
 ## 🔌 Circuits et Composants Capacitifs et Inductifs (CCCI)
-- [Capacitif](./CCCI/Capacitif )
-- [Inductif](./CCCI/Inductif )
+- [Capacitif](./CCCI/Capacitif%20)
+- [Inductif](./CCCI/Inductif%20)
 - [Annales](./CCCI/Annales)
 
 ## 💻 Programmation C++
