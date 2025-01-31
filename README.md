@@ -6,8 +6,8 @@ Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,fl
 
 ## 📂 Navigation Rapide
 
-- [📚 Électronique Analogique (EA)](#-électronique-analogique-ea)
-- [🔬 Circuits et Composants Capacitifs et Inductifs (CCCI)](#-conception-de-circuits-intégrés-ccci)
+- [⚡ Électronique Analogique (EA)](#-électronique-analogique-ea)
+- [🔌 Circuits et Composants Capacitifs et Inductifs (CCCI)](#-conception-de-circuits-intégrés-ccci)
 - [💻 Programmation C++](#-programmation-c)
 - [🧮 Mathématiques](#-mathématiques)
 - [🔖 Flashcards Anki](#-flashcards-anki)
