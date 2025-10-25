@@ -1,6 +1,6 @@
 # 🎓 Ressources Semestre 3 - Électronique Analogique
 
-Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,flashcard anki et conseilles pour les LAS du **premier semestre** de la **L2 EEA**.
+Bienvenue sur le dépôt regroupant toutes les supports de cours, TD, examens,flashcard anki et conseilles pour **premier semestre** de la **L2 EEA**.
 
 ---
 
